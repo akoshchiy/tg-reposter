@@ -1,0 +1,22 @@
+client:
+  deviceModel: "server"
+  systemVersion: "1.0.0"
+  applicationVersion: "1.0.0"
+  systemLanguageCode: "en"
+  phone: "79879999999"
+  apiId: 9999
+  apiHash: "apiHash"
+  proxy:
+    host: "localhost"
+    port: 9999
+    login: ""
+    password: ""
+  databaseDirectory: "/home/user/db"
+  filesDirectory: "/home/user/files"
+  checkCode: "1234"
+
+bot:
+  token: "token"
+  timeout: 30
+
+filterRegex: ".*"
